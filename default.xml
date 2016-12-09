@@ -23,7 +23,7 @@
 	   revision="nougat" />
 
   <remote  name="rr-oms"
-	   fetch="https://github.com/ResurrectionRemix"
+	   fetch="https://github.com/ResurrectionRemixOMS"
 	   revision="nougat-oms" />
 
   <!-- AOSP Projects -->
