@@ -19,7 +19,7 @@
   <project path="frameworks/native" name="android_frameworks_native" remote="rr-oms" />
   <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rr-oms" />
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="n" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="rr-oms" />
-  <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" groups="pdk-fs" remote="rr-oms" />
-  <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="rr-oms" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="rr-oms" />
+  <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="rr-oms" />
+  <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="rr-oms" />
 </manifest>
