@@ -5,8 +5,7 @@ Unofficial OMS fork
 
 Big thanks to:
 * Resurrection Remix (original ROM)
-* All AICP Team for commits
-* All Substratum Team
+* All AICP and Substratum Team for commits
 
 [Join the Resurrection Remix Team](http://forum.resurrectionremix.com/index.php?topic=2037.new#new)
 
