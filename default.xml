@@ -22,6 +22,10 @@
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="nougat" />
 
+  <remote  name="rroms7"
+	   fetch="https://github.com/ResurrectionRemixOMS7"
+	   revision="nougat-oms" />
+
   <!-- AOSP Projects -->
 
     <project path="build" name="android_build" remote="rr" >
