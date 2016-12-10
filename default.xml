@@ -24,12 +24,7 @@
 
   <remote  name="rr-oms"
 	   fetch="https://github.com/ResurrectionRemix-OMS7"
-	   revision="nougat-oms" />
-
-  <default revision="refs/heads/nougat-oms"
-           remote="github"
-           sync-c="true"
-           sync-j="16" />
+	   revision="refs/heads/nougat-oms" />
 
   <!-- AOSP Projects -->
 
